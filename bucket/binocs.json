@@ -6,14 +6,14 @@
             "bin": [
                 "binocs.exe"
             ],
-            "hash": "35d52190c4a21e48931799ef586c0d655eb71b17a86e849f4d0041a0a8e5eee1"
+            "hash": "7c03991b400ddf6986ca5c60b40a4a7126704060219a7e86aaf5f2cca0b02bc0"
         },
         "64bit": {
             "url": "https://github.com/automato-io/binocs-cli/releases/download/v0.7.4/binocs_0.7.4_windows_amd64.zip",
             "bin": [
                 "binocs.exe"
             ],
-            "hash": "16464aacbba216dbe115eb3a1647184edf5f096cfab76e602cfcd915e34ab156"
+            "hash": "40a2ecae470cabec7bf1d46fd646bbf453f6599acbb126f6e8fdd00980576acb"
         }
     },
     "homepage": "https://binocs.sh/",
