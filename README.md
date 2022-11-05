@@ -1,8 +1,6 @@
-# Scoop Bucket Template
+# 🪣 The Official Automato Scoop Bucket
 
 [![Tests](https://github.com/automato-io/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/automato-io/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/automato-io/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/automato-io/scoop-bucket/actions/workflows/excavator.yml)
-
-🪣 The Official Automato Scoop Bucket
 
 How do I install these manifests?
 ---------------------------------
