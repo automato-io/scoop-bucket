@@ -6,16 +6,17 @@
             "bin": [
                 "binocs.exe"
             ],
-            "hash": "1cd8e48bfd57ad443c5373d6a6c60d5fd4d7497334d548a350df4f70abb724f7"
+            "hash": "35d52190c4a21e48931799ef586c0d655eb71b17a86e849f4d0041a0a8e5eee1"
         },
         "64bit": {
             "url": "https://github.com/automato-io/binocs-cli/releases/download/v0.7.4/binocs_0.7.4_windows_amd64.zip",
             "bin": [
                 "binocs.exe"
             ],
-            "hash": "6a651e93ded623bbb2e4bffe9fdde1cedfdf9ba1b1b617c9ae4335ae816bf96b"
+            "hash": "16464aacbba216dbe115eb3a1647184edf5f096cfab76e602cfcd915e34ab156"
         }
     },
     "homepage": "https://binocs.sh/",
+    "license": "Proprietary",
     "description": "Binocs is a CLI-first uptime and performance monitoring tool for websites, applications and APIs."
 }
