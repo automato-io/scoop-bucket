@@ -1,19 +1,19 @@
 {
-    "version": "0.7.4",
+    "version": "0.7.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/automato-io/binocs-cli/releases/download/v0.7.4/binocs_0.7.4_windows_386.zip",
+            "url": "https://github.com/automato-io/binocs-cli/releases/download/v0.7.5/binocs_0.7.5_windows_386.zip",
             "bin": [
                 "binocs.exe"
             ],
-            "hash": "7c03991b400ddf6986ca5c60b40a4a7126704060219a7e86aaf5f2cca0b02bc0"
+            "hash": "ab49633bf2a4b8c23d001ff2dbd42f66e4b0b0067d1a27a8a79347425128c444"
         },
         "64bit": {
-            "url": "https://github.com/automato-io/binocs-cli/releases/download/v0.7.4/binocs_0.7.4_windows_amd64.zip",
+            "url": "https://github.com/automato-io/binocs-cli/releases/download/v0.7.5/binocs_0.7.5_windows_amd64.zip",
             "bin": [
                 "binocs.exe"
             ],
-            "hash": "40a2ecae470cabec7bf1d46fd646bbf453f6599acbb126f6e8fdd00980576acb"
+            "hash": "e5152ea2aa452149f034d5351612ad64c546147a98f3efd46f71e8f838ee4789"
         }
     },
     "homepage": "https://binocs.sh/",
